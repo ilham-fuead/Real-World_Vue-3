@@ -1,15 +1,14 @@
 {
-  "events": [
-    
+  "events": [    
       {
-      "name":"ilham",
-      "review":"ok lah barang ni",
-      "rating":5
+      "name" : "ilham",
+      "review" : "ok lah barang ni",
+      "rating" : 5
     },
     {
-      "name":"Bruce Wayne",
-      "review":"cari kaler military",
-      "rating":1
+      "name" : "Bruce Wayne",
+      "review" : "cari kaler military",
+      "rating" : 1
     }
-  ]  
+  ]
 }
